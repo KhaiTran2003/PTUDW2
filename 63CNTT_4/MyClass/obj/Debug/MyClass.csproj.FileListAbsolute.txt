@@ -1,0 +1,12 @@
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\MyClass.dll.config
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\MyClass.dll
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\MyClass.pdb
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\EntityFramework.dll
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\EntityFramework.xml
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\obj\Debug\MyClass.csproj.CopyComplete
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\obj\Debug\MyClass.dll
+F:\1_PhatTrienWeb\DoAnWeb\63CNTT_4\MyClass\obj\Debug\MyClass.pdb
